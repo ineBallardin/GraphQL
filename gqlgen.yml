@@ -78,7 +78,7 @@ models:
     model:
       - "github.com/ineBallardin/GraphQL/graph/model.Category"
   Course:
-    models:
+    model:
       - "github.com/ineBallardin/GraphQL/graph/model.Course"
   ID:
     model:
