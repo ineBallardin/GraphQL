@@ -9,6 +9,8 @@ import (
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/ineBallardin/GraphQL/graph"
+	"github.com/ineBallardin/GraphQL/internal/database"
+
 	_ "github.com/mattn/go-sqlite3"
 )
 
